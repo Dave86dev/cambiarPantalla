@@ -1,0 +1,17 @@
+
+.secvis {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#pantalla1 {
+    background-color: red;
+}
+
+#pantalla2 {
+    background-color: blue;
+}
+
